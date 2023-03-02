@@ -40,4 +40,4 @@
 
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />
 
-<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />
+<img align="left" alt="Postman" width="26px" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" />
