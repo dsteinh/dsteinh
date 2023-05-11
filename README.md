@@ -2,7 +2,7 @@
 <br/>
 
 
- I work as a spring boot backend developer.
+ I work as a full stack developer.
 
 <br/>
 
